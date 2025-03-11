@@ -30,8 +30,8 @@
 
   ### 🧑‍💻 Contact me
   <div style="text-align: left;"> 
-         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Tistory&logoColor=white&link=temp"></a>
-         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:temp"></a>
+         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Tistory&logoColor=white&link=velog"></a>
+         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mail"></a>
     </div> <br> 
 
 <div>
