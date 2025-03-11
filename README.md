@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeAuto&text=Lee%20Han%20Jun&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeAuto&text=Lee%20Han%20Jun&fontSize=40)
